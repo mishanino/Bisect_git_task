@@ -1,0 +1,3 @@
+[submodule "initjs"]
+	path = initjs
+	url = git@github.com:mishanino/initjs.git
